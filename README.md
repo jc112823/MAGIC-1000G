@@ -1,8 +1,8 @@
 # MAGIC-1000G
 
-QC-step-1.R is the code used to reformat summary statistics from cohorts and harmonize variant name in centralized quality control.
+QC-step-1.R is the code used to reformat summary statistics from cohorts and harmonize variant name in centralized quality control step.
 
-QC-step-2.sh is the code applying EasyQC to clean the data in centralized quality control.
+QC-step-2.sh is the code applying EasyQC to clean the data in centralized quality control step.
 
 single-ancestry_meta-analyses.R is the code applying METAL to conduct the signal-ancestry meta-analyses.
 
