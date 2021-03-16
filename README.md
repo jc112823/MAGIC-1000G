@@ -23,3 +23,5 @@ hba1c_grs_t2d.R is the code used to analyse HbA1c genetic risk scores (GRSs) and
 depict.sh is the code applying DEPICT to conduct tissue and gene set enrichment analysis.
 
 The code for Epigenomic landscape of trait-associated variants can be found here https://github.com/ParkerLab/magic_final.
+
+DOI: https://zenodo.org/badge/latestdoi/346687844
