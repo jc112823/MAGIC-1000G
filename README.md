@@ -21,3 +21,5 @@ hba1c_classification.R is the code used to conduct HbA1c signal classification.
 hba1c_grs_t2d.R is the code used to analyse HbA1c genetic risk scores (GRSs) and type 2 diabetes (T2D) risk.
 
 depict.sh is the code applying DEPICT to conduct tissue and gene set enrichment analysis.
+
+The code for Epigenomic landscape of trait-associated variants can be found here https://github.com/ParkerLab/magic_final.
